@@ -91,7 +91,7 @@ A：目前仅支持 Windows 10/11，其他系统暂未测试。
 
 - [PySide6](https://pypi.org/project/PySide6/) - 跨平台 GUI 框架
 - [PyInstaller](https://pyinstaller.org/) - 打包工具
-- 感谢 [一只小海王](https://space.bilibili.com/) 的测试与反馈
+- 感谢 [一只小海王](https://space.bilibili.com/489281042?spm_id_from=333.337.search-card.all.click) 的测试与反馈
 
 ---
 
