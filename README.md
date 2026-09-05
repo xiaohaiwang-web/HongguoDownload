@@ -4,7 +4,7 @@
 爬虫代码基于wangduoyu001大佬的源码修改而来
 https://github.com/wangduoyu001
 
-![演示](assets/demo.gif)  <!-- 在这里替换为你的 GIF 演示图片路径 -->
+<!-- ![演示](assets/demo.gif)  在这里替换为你的 GIF 演示图片路径 -->
 
 ## ✨ 功能特性
 
@@ -65,7 +65,7 @@ https://github.com/wangduoyu001
 
 ### 下载操作演示
 
-![下载演示](assets/output.gif)  <!-- 替换为下载操作的 GIF -->
+![下载演示](./output.gif)  <!-- 替换为下载操作的 GIF -->
 
 
 
